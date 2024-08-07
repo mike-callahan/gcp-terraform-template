@@ -1,2 +1,2 @@
 # gcp-terraform-template
-The starting point I use for my terraform configurations.
+This is the directory structure I use when working on a new terraform project.
